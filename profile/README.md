@@ -25,17 +25,17 @@ Here are our socials:
 [![Instagram][5.1]][5.2]
 [![YouTube][6.1]][6.2]
 
-[1.1]: img/little-birdie.png
+[1.1]: https://github.com/little-birdie/.github/raw/master/profile/img/little-birdie.png
 [1.2]: https://www.littlebirdie.com.au/
-[2.1]: img/linkedin.png
+[2.1]: https://github.com/little-birdie/.github/raw/master/profile/img/linkedin.png
 [2.2]: https://www.linkedin.com/company/littlebirdie-com/
-[3.1]: img/twitter.png
+[3.1]: https://github.com/little-birdie/.github/raw/master/profile/img/twitter.png
 [3.2]: https://twitter.com/littlebirdie_au
-[4.1]: img/facebook.png
+[4.1]: https://github.com/little-birdie/.github/raw/master/profile/img/facebook.png
 [4.2]: https://www.facebook.com/littlebirdiecommunity
-[5.1]: img/instagram.png
+[5.1]: https://github.com/little-birdie/.github/raw/master/profile/img/instagram.png
 [5.2]: https://www.instagram.com/littlebirdie_au
-[6.1]: img/youtube.png
+[6.1]: https://github.com/little-birdie/.github/raw/master/profile/img/youtube.png
 [6.2]: https://www.youtube.com/channel/UCWCFTyHvi3PrUqdDFMDdnqQ
 
 <br>
