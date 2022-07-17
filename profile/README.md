@@ -44,4 +44,4 @@ Here are our socials:
 
 <br>
 
-<sub>Made with 💖 in Melbourne, Australia and Pune, India 🇦🇺 🇮🇳</sub>
+<sub>Made with 💖 in Melbourne, Australia 🇦🇺 </sub>
